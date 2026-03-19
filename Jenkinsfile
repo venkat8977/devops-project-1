@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'venkat8977/devops-app'
+        IMAGE_NAME = 'venky005/devops-app'
     }
 
     stages {
